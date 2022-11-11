@@ -15,7 +15,7 @@ For now I study at Lublin for ETI.
 
 ## My stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkSmersh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=21262d" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&bg_color=21262d&hide_border=true&text_color=ffffff&title_color=8941de" alt="Anurag's github stats" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkSmersh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=21262d" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkSmersh&langs_count=8&layout=compact&bg_color=21262d&hide_border=true&text_color=ffffff&title_color=8941de" alt="Anurag's github stats" /></a> |
 | ------------- | ------------- |
 
 
