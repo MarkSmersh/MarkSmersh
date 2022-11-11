@@ -7,7 +7,7 @@
 
 ## About me
 
-For now I study at Lublin for TI.
+For now I study at Lublin for ETI.
 <br>Otherwise I want to do some project for my feature portfolio, before I'll search for work:
 
 - Shop-website, using <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=green&color=21262d"/>, <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=blue&color=21262d"/>, <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=blue&color=21262d"/>;
@@ -15,7 +15,9 @@ For now I study at Lublin for TI.
 
 ## My stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkSmersh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=21262d)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkSmersh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=21262d" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&bg_color=21262d&hide_border=true&text_color=ffffff&title_color=8941de" alt="Anurag's github stats" /></a> |
+| ------------- | ------------- |
+
 
 <!--
 **MarkSmersh/MarkSmersh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
