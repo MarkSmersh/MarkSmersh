@@ -2,7 +2,7 @@
 
 ### I'm self-taught Web Developer from Poland
 
-### I fall in love with this languages:
+<!-- ### I fall in love with this languages: -->
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=blue&color=21262d"/> <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=green&color=21262d"/> <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=blue&color=21262d"/> <img alt="CSharp" src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=purple&color=21262d"/>
 
 ## About me
