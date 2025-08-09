@@ -1,4 +1,4 @@
-# The Partially Inżynier
+# The 6/7 Inżynier
 
 ## My fellas
 
